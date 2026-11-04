@@ -1,0 +1,27 @@
+# Python / FastAPI, ReactJS, Environment Secrets, and OS/IDE Ignores
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+temp/
+*.egg-info
+.pytest_cache/
+.mypy_cache/
+*.db
+*.sqlite3
+node_modules/
+/build
+/dist
+/out
+npm-debug.log*
+yarn-debug.log*
+.env
+.env.*
+.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
